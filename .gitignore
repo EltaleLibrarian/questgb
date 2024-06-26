@@ -1,0 +1,8 @@
+# Ignore disassembly.commented directory
+disassembly.commented/
+
+# Ignore gfx folder in disassembly directory
+disassembly/gfx/
+
+# Ignore quest.gbc file
+quest.gbc
